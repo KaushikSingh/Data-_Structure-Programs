@@ -1,2 +1,3 @@
 # Data-_Structure-Programs
-Data Structurea in C
+Data Structures Programming in C
+
